@@ -1,1 +1,1 @@
-print("Hello summer")
+print("Hello class")
